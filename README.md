@@ -1,6 +1,12 @@
-Readings
-
 ## 📖 Table of Contents
+- [API](#-api)
+- [Development](#-development)
+- [Networking](#-networking)
+- [Distributed Computing](#-distributed-computing)
+- [Authentication and authorisation](#-authentication-and-authorisation)
+- [Microservices](#-microservices)
+- [Databases](#-databases)
+- [Scripts](#-scripts)
 
 ## API
 * [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
@@ -8,7 +14,6 @@ Readings
 * [18F API Standards](https://github.com/18f/api-standards)
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 * [RAML](https://raml.org/index.html)
-des
 
 ## Development
 * [Code Reviews…Really?](https://medium.com/better-programming/code-reviews-really-503e1ea62f45)
@@ -18,7 +23,7 @@ des
 * [SDN part 1: What is Software-defined Networking (SDN) and why should I know about it?](https://medium.com/@blackvvine/sdn-part-1-what-is-software-defined-networking-sdn-and-why-should-i-know-about-it-e73a250ceccd)
 * [SDN part 2: Building an SDN playground on the cloud using Open vSwitch and OpenDaylight](https://medium.com/@blackvvine/sdn-part-2-building-an-sdn-playground-on-the-cloud-using-open-vswitch-and-opendaylight-a0e2de029ce1)
 
-## Distributed computing
+## Distributed Computing
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 
 ## Authentication and authorisation
