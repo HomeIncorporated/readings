@@ -7,6 +7,7 @@
 - [Microservices](#-microservices)
 - [Databases](#-databases)
 - [Scripts](#-scripts)
+- [Other](#-other)
 
 ## API
 * [API Security Best Practices MegaGuide](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
@@ -38,3 +39,6 @@
 
 # Scripts
 * [Best Practices for Bash Scripts](https://medium.com/better-programming/best-practices-for-bash-scripts-17229889774d)
+
+# Other
+* [Hacker Dictionary](https://www.hackerdictionary.com/)
