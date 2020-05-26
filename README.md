@@ -4,6 +4,7 @@
 - [Networking](#-networking)
 - [Distributed Computing](#-distributed-computing)
 - [Authentication and authorisation](#-authentication-and-authorisation)
+- [Hacking](#-hacking)
 - [Microservices](#-microservices)
 - [Databases](#-databases)
 - [Scripts](#-scripts)
@@ -30,6 +31,9 @@
 ## Authentication and authorisation
 * [The OAuth Bible](https://github.com/Kong/mashape-oauth/blob/master/FLOWS.md)
 
+## Hacking
+* [Hacking Security E-Books](https://github.com/yeahhub/Hacking-Security-Ebooks)
+
 ## Microservices
 * [Why Your Microservices Architecture Needs Aggregates](https://medium.com/better-programming/why-your-microservices-architecture-needs-aggregates-342b16dd9b6d)
 
@@ -39,6 +43,9 @@
 
 # Scripts
 * [Best Practices for Bash Scripts](https://medium.com/better-programming/best-practices-for-bash-scripts-17229889774d)
+
+# AI
+* [MadewithML](https://madewithml.com/topics/)
 
 # Other
 * [Hacker Dictionary](https://www.hackerdictionary.com/)
