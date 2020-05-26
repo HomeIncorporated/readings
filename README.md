@@ -8,6 +8,7 @@
 - [Microservices](#-microservices)
 - [Databases](#-databases)
 - [Scripts](#-scripts)
+- [AI](#-ai)
 - [Other](#-other)
 
 ## API
