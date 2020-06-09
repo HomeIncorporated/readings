@@ -1,5 +1,7 @@
 ## 📖 Table of Contents
 - [API](#-api)
+- [Cloud Computing](#-cloud-computing)
+- [Security](#-security)
 - [Development](#-development)
 - [Networking](#-networking)
 - [Distributed Computing](#-distributed-computing)
@@ -17,6 +19,13 @@
 * [18F API Standards](https://github.com/18f/api-standards)
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 * [RAML](https://raml.org/index.html)
+
+## Cloud Computing
+* [serverless](https://martinfowler.com/articles/serverless.html)
+* [Allegro REST API Guideline](https://github.com/allegro/restapi-guideline)
+
+## Security
+* [Infosec Write-Ups](https://medium.com/bugbountywriteup)
 
 ## Development
 * [Code Reviews…Really?](https://medium.com/better-programming/code-reviews-really-503e1ea62f45)
@@ -37,6 +46,7 @@
 
 ## Microservices
 * [Why Your Microservices Architecture Needs Aggregates](https://medium.com/better-programming/why-your-microservices-architecture-needs-aggregates-342b16dd9b6d)
+* [Microservices 101: A guide to microservice architecture](https://www.zdnet.com/article/microservices-101-a-guide-to-microservice-architecture/)
 
 ## Databases
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
@@ -50,4 +60,5 @@
 
 # Other
 * [Hacker Dictionary](https://www.hackerdictionary.com/)
+* [Papers we love](https://github.com/papers-we-love/)
 * [Remote Work Wiki](https://www.notion.so/Remote-work-wiki-1b21ef5501714fffa9f5c5c25677371f)
